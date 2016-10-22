@@ -1,0 +1,27 @@
+"""
+THIS PROJECT WAS MADE BY KARTIK KULKARNI.
+
+YOU CAN RELEASE THIS SOFTWARE ANYWHERE FOR FREE PROVIDED THAT THIS README FILE IS PROVIDED WITH THE DISTIBUTION.
+
+THIS IS A PROGRAM WHICH IS BASED ON TEXT TO SPEECH SYNTHESIZER WHICH CONVERTS THE TEXT FILE INTO A VOICE AUDIO THAT CAN BE USED FOR EITHER EASY ACESSES OR FOR PHYSICALLY CHALLENGED (BLIND)
+"""
+
+"""
+SPECIFICATIONS:
+ 1.Python 3 compier
+ 2.pyttsx library
+ 3.win32 api(if in windows)
+
+USING:
+ 1. Start the python file (readText.py) for reading from a custom file named 
+    (read file.txt, to be made by the consumer).
+ 2. The code can be edited by using method(s):
+ 												1.Male(string)
+ 												2.Female(string)
+ 												3.Girl(string)
+ 3.For custom input recognition use the file(readInput.py) and follow the     
+   onscreen directions.
+
+ # THANK YOU FOR USING OUR SOFTWARE
+ # 2016-10-22
+ # contact : kartik.koolks@gmail.com

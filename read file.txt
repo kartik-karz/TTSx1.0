@@ -1,0 +1,1 @@
+HEllo this is a file ourside the python environment.  I am able to read this file, with the help of magic called text synthesis. You can either paste your text here directly or make your webcrawler write it into the text to use it as a text input for the TTS software.
